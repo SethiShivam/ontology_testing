@@ -1,0 +1,18 @@
+{
+  "name": "ontology",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.11.0",
+    "base-58": "0.0.1",
+    "did-resolver": "^1.1.0",
+    "messagebird": "^3.4.0",
+    "ontology-ts-sdk": "^1.1.0"
+  }
+}
